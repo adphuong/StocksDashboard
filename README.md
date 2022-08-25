@@ -1,7 +1,7 @@
 # A Simple Stocks Dashboard
 A single-page web app, built with <a href="https://dash.plotly.com/introduction">Dash</a>, that retrieves stock information by calling Yahoo Finance's
 API based on the given ticker. It displays the company information, current stock price, and creates a chart of its historical prices.
-![StocksDashboard snapshot][walkthrough.gif]
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ## Setup
 ### 1. Clone repo
 ```
